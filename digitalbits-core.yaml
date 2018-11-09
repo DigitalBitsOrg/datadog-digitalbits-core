@@ -1,0 +1,7 @@
+init_config:
+  metric_prefix: digitalbits-core
+  network: testnet
+  dbc_url: http://localhost:11626
+
+instances:
+    [{}]
